@@ -75,7 +75,7 @@ Full-stack assignment project with a Node.js, Express.js, MongoDB, and Mongoose 
 
 - JWT Authentication
 - Role-Based Access Control (RBAC)
-- CRUD Task Management
+- CRUD Task Management - get,post,delete,patch
 - Protected Routes
 - Input Validation & Sanitization
 - Swagger API Documentation
